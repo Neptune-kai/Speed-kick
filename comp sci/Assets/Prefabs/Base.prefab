@@ -45,7 +45,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 098dc9138f67a1748a71f4fa7e57cc14, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animationClip: {fileID: 0}
+  animationClip: {fileID: 3812546017969097313, guid: 1e43a383ea886d746913b8b5e8ac27a7, type: 3}
 --- !u!1001 &4140211984569190800
 PrefabInstance:
   m_ObjectHideFlags: 0
